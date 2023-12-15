@@ -1,0 +1,21 @@
+
+#imagenAnimada {
+    max-width: 100%;
+    transition: transform 0.5s ease-in-out;
+  }
+  
+ 
+  #imagenAnimada.animada {
+    transform: rotate(360deg);
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  

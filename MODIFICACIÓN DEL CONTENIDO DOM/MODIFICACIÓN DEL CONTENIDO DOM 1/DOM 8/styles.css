@@ -1,0 +1,24 @@
+.elemento {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  
+ 
+  .elemento:hover {
+    background-color: green;
+    color: aliceblue;
+  }
+
+  h2{
+    color: aliceblue;
+  }
+
+  body{
+    background-color: black;
+  }
+
+  div{
+    color: aliceblue;
+  }

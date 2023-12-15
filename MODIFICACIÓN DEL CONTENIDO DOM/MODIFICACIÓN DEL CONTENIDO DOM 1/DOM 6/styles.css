@@ -1,0 +1,28 @@
+body {
+    padding: 20px;
+    background-image: url(FONDO.jpg);
+    background-size: cover;
+  }
+  
+  .container {
+    border: 5px solid #ccc;
+    padding: 20px;
+    max-width: 400px;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  #contenidoActualizado {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+
+  h2{
+    color: #000;
+  }
+
+  label{
+    color: #000;
+  }

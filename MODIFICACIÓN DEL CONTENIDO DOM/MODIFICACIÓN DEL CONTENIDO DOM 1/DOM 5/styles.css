@@ -1,0 +1,24 @@
+body {
+    padding: 20px;
+    background-image: url(fondo.jpg);
+    background-size: cover;
+  }
+  
+  .container {
+    border: 5px solid #fff;
+    padding: 20px;
+    max-width: 400px;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
